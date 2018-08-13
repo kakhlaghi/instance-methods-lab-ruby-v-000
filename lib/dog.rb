@@ -1,4 +1,6 @@
 class Dog
 end
 
-bark(puts "Woof!") = Dog.new 
+def bark(puts "Woof!") = Dog.new
+def sit(puts "The Dog is sitting")
+
