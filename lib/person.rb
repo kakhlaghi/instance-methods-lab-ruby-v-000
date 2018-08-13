@@ -1,5 +1,5 @@
 class Person
 end
 
-def talk("Hello World") = Person.new
-def walk("Ther Person is walking") = Person.new
+def talk() puts "Hello World" = Person.new
+def walk() puts "Ther Person is walking" = Person.new
